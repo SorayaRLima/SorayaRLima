@@ -35,10 +35,11 @@
 | **Sistemas**  | Informakon, Fortes, ContaAzul              | Intermediário |
 | **Dados**     | SQL, Análise de Dados                      | Intermediário |
 
+
 ## 📚 Certificações
 - Power BI - Simplifica Treinamentos
 - Dashboard Excel/Power BI - Faculdade CDL
-- Análises Financeiras - Fortes Educação
+- Análises Financeiras - Unifor
 - Oratória - Fortes Tecnologia
 
 ## 🌟 Destaques Profissionais
@@ -51,6 +52,6 @@ Busco transicionar para áreas de **Data Analytics aplicado a Finanças**, combi
 
 ---
 
-⭐ **Conecte-se comigo:**  
+⭐ **Conecte-se comigo**  
 
 
